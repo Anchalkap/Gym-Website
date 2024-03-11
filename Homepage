@@ -1,0 +1,29 @@
+Home Page-
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gym-Website</title>
+    <link rel="stylesheet" href="gym.css">
+</head>
+<body>
+    <div class="item1">
+        <h1>Fitness</h1>
+        <div class="bag">
+            <ul>
+                <li><a href="contact.html">Contact Us</a></li>
+                <li><a href="C:\Users\Lappy\Desktop\todo-demo\login.html">Login/Register</a></li>
+                <li><a href="courses.html">Courses</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="gym.html">Home</a></li>        
+            </ul>
+        </div>
+    </div>
+    <div id="new">
+        <h1>A fit-healthy body-that is the best fashion statement</h1>
+    </div><br>
+    <center><a href="register.html"><input type="submit" value="Get Started" class="btn"></center></a>>
+</body>
+</html>
